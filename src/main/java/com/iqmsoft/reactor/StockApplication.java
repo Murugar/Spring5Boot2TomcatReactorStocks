@@ -55,7 +55,7 @@ public class StockApplication implements ApplicationRunner {
 
 	@Override
 	public void run(ApplicationArguments args) throws Exception {
-//		this.intFluxWithBackpressure();
+		this.intFluxWithBackpressure();
 	}
 }
 
